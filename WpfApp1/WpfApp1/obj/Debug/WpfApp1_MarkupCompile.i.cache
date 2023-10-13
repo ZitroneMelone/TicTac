@@ -1,7 +1,7 @@
 ﻿WpfApp1
 
 
-winexe
+exe
 C#
 .cs
 G:\VS\Projects\WpfApp1\WpfApp1\obj\Debug\
@@ -16,5 +16,5 @@ G:\VS\Projects\WpfApp1\WpfApp1\App.xaml
 13-1310406943
 MainWindow.xaml;
 
-True
+False
 
